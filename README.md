@@ -33,6 +33,13 @@ Based on the analysis there are four important variables that influence consumer
 # Business Recommendation
 
   1. **Prioritize Appropriate Audiences**
+      
+            <p align="center">
+        <a href="" rel="noopener">
+          <img src="viz.png" alt="Project logo">
+        </a>
+      </p>
+
     Based on the analysis, parents who view Pageview 4 have referral from direct, unbranded search, and referred. Therefore, we need to maximize our     performance in these channel.
   2. **Improve the Sales Funnel**
     Effective sales funnel will helps a company to manage a customer’s buying process and provides information about an
