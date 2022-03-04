@@ -34,14 +34,14 @@ Based on the analysis there are four important variables that influence consumer
 
   1. **Prioritize Appropriate Audiences**
       
-          <p align="center">
+        <p align="center">
         <a href="" rel="noopener">
           <img src="viz.png" alt="Project logo">
         </a>
         </p>
-
-    Based on the analysis, parents who view Pageview 4 have referral from direct, unbranded search, and referred. Therefore, we need to maximize our     performance in these channel.
+     Based on the analysis, parents who view Pageview 4 have referral from direct, unbranded search, and referred. Therefore, we need to maximize our performance in these channel.
   2. **Improve the Sales Funnel**
-    Effective sales funnel will helps a company to manage a customer’s buying process and provides information about an
-    insight into the thoughts of its potential customers. Based on the analysis, most of parent stop to explore further and stop in
-    pageview 1. It needs to tackle by analyzing homepage and content of company website.
+   
+     Effective sales funnel will helps a company to manage a customer’s buying process and provides information about an
+  insight into the thoughts of its potential customers. Based on the analysis, most of parent stop to explore further and stop in
+  pageview 1. It needs to tackle by analyzing homepage and content of company website.
