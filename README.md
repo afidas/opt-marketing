@@ -34,11 +34,11 @@ Based on the analysis there are four important variables that influence consumer
 
   1. **Prioritize Appropriate Audiences**
       
-            <p align="center">
+          <p align="center">
         <a href="" rel="noopener">
           <img src="viz.png" alt="Project logo">
         </a>
-      </p>
+        </p>
 
     Based on the analysis, parents who view Pageview 4 have referral from direct, unbranded search, and referred. Therefore, we need to maximize our     performance in these channel.
   2. **Improve the Sales Funnel**
